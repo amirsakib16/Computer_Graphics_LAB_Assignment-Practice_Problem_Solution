@@ -4,3 +4,5 @@
     <img src="https://img.shields.io/badge/Access%20Project%20Files-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" height="40">
   </a>
 </p>
+
+![Author](https://img.shields.io/badge/Author-Azmari%20Sultana%20Tushmi-blue?style=for-the-badge)
