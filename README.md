@@ -10,5 +10,5 @@
 
 **Author:** Azmari Sultana Tushmi  
 **Department:** Computer Science & Engineering  
-**Institution:** BRAC UniversityCREDIT:  
+**Institution:** BRAC University  
 
