@@ -5,4 +5,4 @@
   </a>
 </p>
 
-![Author](https://img.shields.io/badge/Author-Azmari%20Sultana%20Tushmi-blue?style=for-the-badge)
+![Credit](https://img.shields.io/badge/Author-Azmari%20Sultana%20Tushmi-blue?style=for-the-badge)
